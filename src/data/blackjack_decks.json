@@ -1,0 +1,78 @@
+{
+    "36-11": {
+        "6":{
+            "dignity": 6,
+            "name": "6"
+        },
+        "7": {
+            "dignity": 7,
+            "name": "7"
+        },
+        "8": {
+            "dignity": 8,
+            "name": "8"
+        },
+        "9": {
+            "dignity": 9,
+            "name": "9"
+        },
+        "10": {
+            "dignity": 10,
+            "name": "10"
+        },
+        "J": {
+            "dignity": 2,
+            "name": "jack"
+        },
+        "Q": {
+            "dignity": 3,
+            "name": "queen"
+        },
+        "K": {
+            "dignity": 4,
+            "name": "king"
+        },
+        "A": {
+            "dignity": 11,
+            "name": "ace"
+        }
+    },
+    "36-1": {
+        "6":{
+            "dignity": 6,
+            "name": "6"
+        },
+        "7": {
+            "dignity": 7,
+            "name": "7"
+        },
+        "8": {
+            "dignity": 8,
+            "name": "8"
+        },
+        "9": {
+            "dignity": 9,
+            "name": "9"
+        },
+        "10": {
+            "dignity": 10,
+            "name": "10"
+        },
+        "J": {
+            "dignity": 2,
+            "name": "jack"
+        },
+        "Q": {
+            "dignity": 3,
+            "name": "queen"
+        },
+        "K": {
+            "dignity": 4,
+            "name": "king"
+        },
+        "A": {
+            "dignity": 1,
+            "name": "ace"
+        }
+    }
+}
